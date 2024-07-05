@@ -1,10 +1,11 @@
 ---
-title: "yujchuang.github.io"
+title: "Yu-Jen Chuang"
+
+about: 
+  template: trestles
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This is a
 
 ```{r}
 1 + 1
