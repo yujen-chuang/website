@@ -4,7 +4,7 @@ project:
   
 website:
   title: "Yu-Jen Chuang"
-  navbar:
+  navbar: 
     left:
       - href: index.qmd
         text: Home
@@ -12,7 +12,7 @@ website:
 
 format:
   html:
-    theme: simplex
+    theme: spacelab
     css: styles.css
     toc: true
     page-layout: full
