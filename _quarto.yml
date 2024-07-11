@@ -3,8 +3,9 @@ project:
   output-dir: docs
   
 website:
-  title: "Yu-Jen Chuang"
-  navbar: 
+  title: "Yu-Jen (Andy) Chuang"
+  navbar:  
+    background: primary
     left:
       - href: index.qmd
         text: Home

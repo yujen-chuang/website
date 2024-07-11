@@ -1,12 +1,18 @@
 ---
-title: "Yu-Jen Chuang"
+title: "Yu-Jen (Andy) Chuang"
 
-about: 
+about:
   template: trestles
+  links:
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/yu-jen-andy-chuang-b8b5a6178/
+    - text: Twitter
+      icon: twitter-x
+      href: https://   
+    - text: University Website
+      icon: mortarboard-fill
+      href: https://www.marketing.uni-frankfurt.de/en/professoren/skiera/team/doctoral-students/yu-jen-andy-chuang.html      
 ---
 
-This is a
-
-```{r}
-1 + 1
-```
+I am a Ph.D. Candidate in Economics at [Goethe University Frankfurt (GSEFM)](https://www.gsefm.eu/about-us.html).
