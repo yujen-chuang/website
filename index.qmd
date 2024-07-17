@@ -1,18 +1,29 @@
 ---
 title: "Yu-Jen (Andy) Chuang"
+image: images/Photo_Yu-JenChuang_2023.jpg
+toc: false
 
 about:
   template: trestles
+  image-shape: round
+  image-width: 10em
   links:
     - text: LinkedIn
       icon: linkedin
       href: https://www.linkedin.com/in/yu-jen-andy-chuang-b8b5a6178/
     - text: Twitter
       icon: twitter-x
-      href: https://   
+      href: https://x.com/YuJen_Chuang  
+    - text: Email
+      icon: envelope-fill
+      href: mailto:chuang@wiwi.uni-frankfurt.de
     - text: University Website
       icon: mortarboard-fill
       href: https://www.marketing.uni-frankfurt.de/en/professoren/skiera/team/doctoral-students/yu-jen-andy-chuang.html      
 ---
 
-I am a Ph.D. Candidate in Economics at [Goethe University Frankfurt (GSEFM)](https://www.gsefm.eu/about-us.html).
+I am a Ph.D. candidate in Economics at [Goethe University Frankfurt (GSEFM)](https://www.gsefm.eu/about-us.html). Currently, I am a research assistant at [Chair of Electronic Commerce (Prof. Bernd Skiera)](https://www.marketing.uni-frankfurt.de/en/professoren/skiera/chair-of-electronic-commerce.html) in Department of Marketing.
+
+My research interests extensively focus on digital economics, economics of innovation, and blockchains.
+
+Email: [chuang\@wiwi.uni-frankfurt.de](mailto:%20chuang@wiwi.uni-frankfurt.de) \| [yujchuang\@gmail.com](mailto:%20yujchuang@gmail.com)

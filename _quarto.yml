@@ -9,7 +9,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - research.qmd
+#      - teaching.qmd
+      - cv.qmd
 
 format:
   html:
@@ -17,6 +19,12 @@ format:
     css: styles.css
     toc: true
     page-layout: full
+    fontcolor: black
+    mainfont: "Gill Sans"
+    fontsize: 1.25rem
+    line-height: 160%;
+
+
     
 editor: visual
 

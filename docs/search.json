@@ -1,16 +1,58 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "[Download]"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\nPh.D. in Economics, Goethe University Frankfurt (GSEFM), 2022-Present\nM.Sc. in Quantitative Economics, Goethe University Frankfurt (GSEFM), 2022-Present\nM.Sc. in Economics, University of Mannheim, 2022\nB.B.A. in Business Economics, City University of Hong Kong, 2020\nB.A. in Economics, National Taiwan University, 2020"
+  },
+  {
+    "objectID": "cv.html#conference-presentations",
+    "href": "cv.html#conference-presentations",
+    "title": "CV",
+    "section": "Conference Presentations",
+    "text": "Conference Presentations\n2024\nSCECR (Lisbon, Portugal), DPE Forum (Passau, Germany), EMAC (Bucharest, Romania)"
+  },
+  {
+    "objectID": "cv.html#teaching",
+    "href": "cv.html#teaching",
+    "title": "CV",
+    "section": "Teaching",
+    "text": "Teaching\nGoethe University Frankfurt\nBachelor and Master Theses Supervision"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "…"
+    "text": "To be updated…"
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "",
+    "text": "To be updated…"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Goethe University Frankfurt\nEconometrics in Economics (BSc Economics, Tutorial), Winter 2024/25\n\nThis course provides an understanding of the fundamental methodologies of modern econometrics with the software R. Topics include probability theory, linear regression, finite sample distribution, asymptotic testing, large sample distribution, instrumental variables, time series analysis, panel data model, and machine learning.\n\nBachelor and Master Theses Supervision\n\nTopics include machine learning (e.g., XGBoost), blockchains (e.g., crypto tokens), etc."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Yu-Jen (Andy) Chuang",
     "section": "",
-    "text": "I am a Ph.D. Candidate in Economics at Goethe University Frankfurt (GSEFM)."
+    "text": "I am a Ph.D. candidate in Economics at Goethe University Frankfurt (GSEFM). Currently, I am a research assistant at Chair of Electronic Commerce (Prof. Bernd Skiera) in Department of Marketing.\nMy research interests extensively focus on digital economics, economics of innovation, and blockchains.\nEmail: chuang@wiwi.uni-frankfurt.de | yujchuang@gmail.com"
   }
 ]
