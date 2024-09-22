@@ -5,14 +5,17 @@ project:
 website:
   title: "Yu-Jen (Andy) Chuang"
   navbar:  
-    background: primary
+#    background: primary
+    background: "#eeeeee"#"#0a1952"
+    style: "docked"
     left:
       - href: index.qmd
         text: Home
       - research.qmd
 #      - teaching.qmd
       - cv.qmd
-
+  cookie-consent: true
+  
 format:
   html:
     theme: spacelab
@@ -20,8 +23,8 @@ format:
     toc: true
     page-layout: full
     fontcolor: black
-    mainfont: "Gill Sans"
-    fontsize: 1.25rem
+#    mainfont: "Gill Sans"
+    fontsize: 1.15rem
     line-height: 160%;
 
 

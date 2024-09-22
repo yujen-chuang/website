@@ -6,6 +6,10 @@ format:
     css: styles.css
 ---
 
-## Working Papers
+**Resale Royalties in the Creator Economy: Evidence from Non-Fungible Tokens**
 
-To be updated...
+(joint with Björn Hanneke, Bernd Skiera, and Oliver Hinz)
+
+**Sell or Give Away? Economics of Rewarding in the Creator Economy**
+
+(joint with Björn Hanneke, Bernd Skiera, and Oliver Hinz)

@@ -24,6 +24,6 @@ about:
 
 I am a Ph.D. candidate in Economics at [Goethe University Frankfurt (GSEFM)](https://www.gsefm.eu/about-us.html). Currently, I am a research assistant at [Chair of Electronic Commerce (Prof. Bernd Skiera)](https://www.marketing.uni-frankfurt.de/en/professoren/skiera/chair-of-electronic-commerce.html) in Department of Marketing.
 
-My research interests extensively focus on digital economics, economics of innovation, and blockchains.
+My research interests extensively focus on digital economics and economics of innovation. I am particularly interested in **innovative mechanisms** in digital infrastructure (e.g., blockchain, artificial intelligence).
 
 Email: [chuang\@wiwi.uni-frankfurt.de](mailto:%20chuang@wiwi.uni-frankfurt.de) \| [yujchuang\@gmail.com](mailto:%20yujchuang@gmail.com)
