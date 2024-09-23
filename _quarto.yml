@@ -16,7 +16,7 @@ website:
       - cv.qmd
   cookie-consent: true
   google-analytics: "G-P59RQK1WTV"
-  site-url: https://yujen-chuang.github.io
+  site-url: 'https://yujen-chuang.github.io'
   site-path: '/'
   
 format:
