@@ -6,7 +6,7 @@ website:
   title: "Yu-Jen (Andy) Chuang"
   cookie-consent: true
   google-analytics: "G-P59RQK1WTV"
-  site-url: 'https://yujen-chuang.github.io'
+  site-url: 'https://yujen-chuang.github.io/'
   navbar:  
 #    background: primary
     background: "#eeeeee"#"#0a1952"
