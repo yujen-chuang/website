@@ -22,15 +22,15 @@ format:
 
 ## Conference Presentations
 
-**2024**
+[**2024**]{.underline}
 
-WISE (Bangkok, Thailand), SCECR (Lisbon, Portugal), DPE Forum (Passau, Germany), EMAC (Bucharest, Romania)
+**WISE** (Bangkok, Thailand), **SCECR** (Lisbon, Portugal), **DPE Forum** (Passau, Germany), **EMAC** (Bucharest, Romania)
 
 ## Teaching
 
-**Goethe University Frankfurt:**
+[**Goethe University Frankfurt**]{.underline}
 
-**`Generative AI in Marketing`** (co-teach with Bernd Skiera)
+**Generative AI in Marketing** (co-teach with Bernd Skiera)
 
 > **Type:** MSc-Level, Seminar
 >
@@ -38,6 +38,6 @@ WISE (Bangkok, Thailand), SCECR (Lisbon, Portugal), DPE Forum (Passau, Germany),
 >
 > This seminar explores the transformative impact of generative AI technologies on marketing. Students will gain an understanding of the underlying AI models and their applications in marketing. We tailor the seminar for students eager to harness the power of AI to drive innovation in marketing, with insights and strategies that can be applied to other business fields as well.
 
-**`Bachelor and Master Theses Supervision`**
+**Bachelor and Master Theses Supervision**
 
 > **Period:** Summer 2024, Winter 2024/25
