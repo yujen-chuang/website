@@ -1,7 +1,9 @@
 ---
 title: "Research"
+#render: false
 format:
   html:
+    render: false
     toc: false
     css: styles.css
 ---
