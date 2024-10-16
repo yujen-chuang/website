@@ -4,9 +4,10 @@ project:
   
 website:
   title: "Yu-Jen (Andy) Chuang"
+  favicon: images/favicon.png
   cookie-consent: true
   google-analytics: "G-P59RQK1WTV"
-  site-url: 'https://yujen-chuang.github.io/'
+  site-url: 'https://yujen-chuang.com/'
   navbar:  
 #    background: primary
     background: "#eeeeee"#"#0a1952"
