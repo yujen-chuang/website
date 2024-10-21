@@ -31,7 +31,8 @@ format:
     fontsize: 1.15rem
     line-height: 160%;
 
-
+resources:
+  - CNAME
     
 editor: visual
 
