@@ -17,7 +17,6 @@ website:
       - href: index.qmd
         text: Home
       - research.qmd
-#      - teaching.qmd
       - cv.qmd
 
 format:
