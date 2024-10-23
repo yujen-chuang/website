@@ -12,6 +12,7 @@ website:
 
   open-graph:
     title: "Yu-Jen (Andy) Chuang"
+    site-name: "Yu-Jen (Andy) Chuang"
   
   navbar:  
 #    background: primary
