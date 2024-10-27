@@ -24,7 +24,13 @@ format:
 
 [**2024**]{.underline}
 
-**WISE** (Bangkok, Thailand), **SCECR** (Lisbon, Portugal), **DPE Forum** (Passau, Germany), **EMAC** (Bucharest, Romania)
+> **WISE (Workshop on Information Systems and Economics)**, Bangkok, Thailand
+>
+> **SCECR (Statistical Challenges in E-Commerce Research)**, Lisbon, Portugal
+>
+> **DPE (Digital Platform Ecosystems) Forum**, Passau, Germany
+>
+> **EMAC (European Marketing Academy Annual Conference),** Bucharest, Romania
 
 ## Teaching
 

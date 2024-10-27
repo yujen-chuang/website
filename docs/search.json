@@ -18,7 +18,7 @@
     "href": "cv.html#conference-presentations",
     "title": "CV",
     "section": "Conference Presentations",
-    "text": "Conference Presentations\n2024\nWISE (Bangkok, Thailand), SCECR (Lisbon, Portugal), DPE Forum (Passau, Germany), EMAC (Bucharest, Romania)"
+    "text": "Conference Presentations\n2024\n\nWISE (Workshop on Information Systems and Economics), Bangkok, Thailand\nSCECR (Statistical Challenges in E-Commerce Research), Lisbon, Portugal\nDPE (Digital Platform Ecosystems) Forum, Passau, Germany\nEMAC (European Marketing Academy Annual Conference), Bucharest, Romania"
   },
   {
     "objectID": "research.html",
@@ -47,5 +47,12 @@
     "title": "Yu-Jen (Andy) Chuang",
     "section": "",
     "text": "I am a Ph.D. candidate in Economics at Goethe University Frankfurt (GSEFM). Currently, I am a research assistant at Chair of Electronic Commerce (Prof. Bernd Skiera) in Department of Marketing.\nMy research interests extensively focus on digital economics and economics of innovation. I am particularly interested in innovative mechanisms in digital infrastructure (e.g., blockchain, artificial intelligence).\nEmail: chuang@wiwi.uni-frankfurt.de | yujchuang@gmail.com"
+  },
+  {
+    "objectID": "cv.html#teaching",
+    "href": "cv.html#teaching",
+    "title": "CV",
+    "section": "Teaching",
+    "text": "Teaching\nGoethe University Frankfurt\nGenerative AI in Marketing (co-teach with Bernd Skiera)\n\nType: MSc-Level, Seminar\nPeriod: Winter 2024/25\nThis seminar explores the transformative impact of generative AI technologies on marketing. Students will gain an understanding of the underlying AI models and their applications in marketing. We tailor the seminar for students eager to harness the power of AI to drive innovation in marketing, with insights and strategies that can be applied to other business fields as well.\n\nBachelor and Master Theses Supervision\n\nPeriod: Summer 2024, Winter 2024/25"
   }
 ]
