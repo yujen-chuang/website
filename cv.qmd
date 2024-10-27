@@ -37,9 +37,9 @@ format:
 **Goethe University Frankfurt**
 
 ::: {.callout-note collapse="true" style="gray" appearance="minimal" icon="false"}
-## Generative AI in Marketing (co-teach with Prof. Bernd Skiera)
+## Generative AI in Marketing
 
-> **Type:** MSc-Level, Seminar
+> **Type:** MSc-Level, Seminar, Co-teach with Prof. Bernd Skiera
 >
 > **Period:** Winter 2024/25
 >
@@ -49,5 +49,7 @@ format:
 ::: {.callout-tip collapse="true" appearance="simple" icon="false"}
 ## Bachelor and Master Theses Supervision
 
+> **Type:** BSc-Level & MSc-Level, Co-supervise with Prof. Bernd Skiera
+>
 > **Period:** Summer 2024, Winter 2024/25
 :::
