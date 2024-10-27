@@ -34,16 +34,20 @@ format:
 
 ## Teaching
 
-[**Goethe University Frankfurt**]{.underline}
+**Goethe University Frankfurt**
 
-**Generative AI in Marketing** (co-teach with Prof. Bernd Skiera)
+::: {.callout-note collapse="true" style="gray" appearance="minimal" icon="false"}
+## Generative AI in Marketing (co-teach with Prof. Bernd Skiera)
 
 > **Type:** MSc-Level, Seminar
 >
 > **Period:** Winter 2024/25
 >
 > This seminar explores the transformative impact of generative AI technologies on marketing. Students will gain an understanding of the underlying AI models and their applications in marketing. We tailor the seminar for students eager to harness the power of AI to drive innovation in marketing, with insights and strategies that can be applied to other business fields as well.
+:::
 
-**Bachelor and Master Theses Supervision**
+::: {.callout-tip collapse="true" appearance="simple" icon="false"}
+## Bachelor and Master Theses Supervision
 
 > **Period:** Summer 2024, Winter 2024/25
+:::
