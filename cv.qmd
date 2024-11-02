@@ -22,7 +22,7 @@ format:
 
 ## Conference Presentations
 
-[**2024**]{.underline}
+**2024**
 
 > **WISE (Workshop on Information Systems and Economics)**, Bangkok, Thailand
 >
@@ -39,17 +39,21 @@ format:
 ::: {.callout-note collapse="true" style="gray" appearance="minimal" icon="false"}
 ## Generative AI in Marketing
 
-> **Type:** MSc-Level, Seminar, Co-teach with Prof. Bernd Skiera
->
-> **Period:** Winter 2024/25
->
-> This seminar explores the transformative impact of generative AI technologies on marketing. Students will gain an understanding of the underlying AI models and their applications in marketing. We tailor the seminar for students eager to harness the power of AI to drive innovation in marketing, with insights and strategies that can be applied to other business fields as well.
+------------------------------------------------------------------------
+
+-   **Type:** MSc-Level, Seminar, Co-teach with Prof. Bernd Skiera
+
+-   **Period:** Winter 2024/25
+
+-   This seminar explores the transformative impact of generative AI technologies on marketing. Students will gain an understanding of the underlying AI models and their applications in marketing. We tailor the seminar for students eager to harness the power of AI to drive innovation in marketing, with insights and strategies that can be applied to other business fields as well.
 :::
 
 ::: {.callout-tip collapse="true" appearance="simple" icon="false"}
 ## Bachelor and Master Theses Supervision
 
-> **Type:** BSc-Level & MSc-Level, Co-supervise with Prof. Bernd Skiera
->
-> **Period:** Summer 2024, Winter 2024/25
+------------------------------------------------------------------------
+
+-   **Type:** BSc-Level (x2) & MSc-Level (x1), Co-supervise with Prof. Bernd Skiera
+
+-   **Period:** Summer 2024, Winter 2024/25
 :::
