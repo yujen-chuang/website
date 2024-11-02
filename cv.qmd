@@ -22,15 +22,19 @@ format:
 
 ## Conference Presentations
 
+::: {.callout-important appearance="simple" icon="false"}
 **2024**
 
-> **WISE (Workshop on Information Systems and Economics)**, Bangkok, Thailand
->
-> **SCECR (Statistical Challenges in E-Commerce Research)**, Lisbon, Portugal
->
-> **DPE (Digital Platform Ecosystems) Forum**, Passau, Germany
->
-> **EMAC (European Marketing Academy Annual Conference),** Bucharest, Romania
+------------------------------------------------------------------------
+
+-   **WISE (Workshop on Information Systems and Economics)**, *Bangkok, Thailand*
+
+-   **SCECR (Statistical Challenges in E-Commerce Research)**, *Lisbon, Portugal*
+
+-   **DPE (Digital Platform Ecosystems) Forum**, *Passau, Germany*
+
+-   **EMAC (European Marketing Academy Annual Conference),** *Bucharest, Romania*
+:::
 
 ## Teaching
 
