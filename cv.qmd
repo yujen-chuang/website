@@ -57,7 +57,7 @@ format:
 
 ------------------------------------------------------------------------
 
--   **Type:** BSc-Level (x2) & MSc-Level (x1), Co-supervise with Prof. Bernd Skiera
+-   **Type:** BSc-Level (x8) & MSc-Level (x1), Co-supervise with Prof. Bernd Skiera
 
 -   **Period:** Summer 2024, Winter 2024/25
 :::
