@@ -16,6 +16,6 @@ format:
 
 (joint with Björn Hanneke, Bernd Skiera, and Oliver Hinz)
 
-**#Ads with Benefits: Field Experiments in Reward Advertising**
+**Ads with Benefits: Field Experiments in Reward Advertising**
 
-#(joint with Nils Breitmar and Bernd Skiera)
+(joint with Nils Breitmar and Bernd Skiera)
