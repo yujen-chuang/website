@@ -6,8 +6,6 @@ format:
     css: styles.css
 ---
 
-[\[Download\]](https://en.wikipedia.org/wiki/R%C3%A9sum%C3%A9)
-
 ## Education
 
 **Ph.D. in Economics**, Goethe University Frankfurt (GSEFM), 2022-Present
@@ -40,14 +38,46 @@ format:
 
 **Goethe University Frankfurt**
 
+::: {.callout-warning collapse="true" style="gray" appearance="minimal" icon="false"}
+# Econometrics in Management / Marketing
+
+------------------------------------------------------------------------
+
+-   **Type:** Bachelor's Level, Course, Co-teach with Prof. Bernd Skiera
+
+-   **Period:** Summer 2025
+:::
+
+::: {.callout-note collapse="true" style="gray" appearance="minimal" icon="false"}
+## Data Mining in Marketing: Data Driven Customer Analytics with Machine Learning
+
+------------------------------------------------------------------------
+
+-   **Type:** Master's Level, Seminar, Co-teach with Hon. Prof. Martin Schmidberger
+
+-   **Period:** Summer 2025
+
+-   This seminar focuses on "predictive modeling" as a challenge in Marketing. Using a real-life dataset, we will forecast and predict customers' purchase behavior and derive models that help optimize the efficiency of marketing campaigns. We will present both the process of data mining and the most relevant machine learning algorithms to predict customer (buying) behavior.
+:::
+
+::: {.callout-note collapse="true" style="gray" appearance="minimal" icon="false"}
+## Applications of Generative AI in Marketing
+
+------------------------------------------------------------------------
+
+-   **Type:** Bachelor's Level, Seminar, Co-teach with Prof. Bernd Skiera
+
+-   **Period:** Summer 2025
+:::
+
 ::: {.callout-note collapse="true" style="gray" appearance="minimal" icon="false"}
 ## Generative AI in Marketing
 
 ------------------------------------------------------------------------
 
--   **Type:** MSc-Level, Seminar, Co-teach with Prof. Bernd Skiera
+-   **Type:** Master's Level, Seminar, Co-teach with Prof. Bernd Skiera
 
--   **Period:** Winter 2024/25
+-   **Period:** Winter 2024
 
 -   This seminar explores the transformative impact of generative AI technologies on marketing. Students will gain an understanding of the underlying AI models and their applications in marketing. We tailor the seminar for students eager to harness the power of AI to drive innovation in marketing, with insights and strategies that can be applied to other business fields as well.
 :::
@@ -57,7 +87,7 @@ format:
 
 ------------------------------------------------------------------------
 
--   **Type:** BSc-Level (x8) & MSc-Level (x1), Co-supervise with Prof. Bernd Skiera
+-   **Type:** Bachelor's Level (x8) & Master's Level (x1), Co-supervise with Prof. Bernd Skiera
 
--   **Period:** Summer 2024, Winter 2024/25
+-   **Period:** Winter 2024, Summer 2024
 :::
