@@ -68,6 +68,8 @@ format:
 -   **Type:** Bachelor's Level, Seminar, Co-teach with Prof. Bernd Skiera
 
 -   **Period:** Summer 2025
+
+-   This seminar equips students with a comprehensive understanding of generative AI and its applications in marketing. Students will engage in reading academic papers, discussing AI models, and applying generative AI in practical business scenarios.
 :::
 
 ::: {.callout-note collapse="true" style="gray" appearance="minimal" icon="false"}
