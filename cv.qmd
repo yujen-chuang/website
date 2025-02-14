@@ -21,6 +21,14 @@ format:
 ## Conference Presentations
 
 ::: {.callout-important appearance="simple" icon="false"}
+**2025**
+
+------------------------------------------------------------------------
+
+-   **ISMS Marketing Science Conference,** *Washington D.C.* (scheduled)
+:::
+
+::: {.callout-important appearance="simple" icon="false"}
 **2024**
 
 ------------------------------------------------------------------------
