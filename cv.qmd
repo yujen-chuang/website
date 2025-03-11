@@ -25,7 +25,9 @@ format:
 
 ------------------------------------------------------------------------
 
--   **ISMS Marketing Science Conference,** *Washington D.C.* (scheduled)
+-   **ISMS Marketing Science Conference**, *Washington D.C.* (scheduled)
+
+-   **EMAC (European Marketing Academy Annual Conference),** *Madrid, Spain* (scheduled)
 :::
 
 ::: {.callout-important appearance="simple" icon="false"}
