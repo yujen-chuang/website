@@ -25,6 +25,8 @@ format:
 
 ------------------------------------------------------------------------
 
+-   **SCECR (Symposium on Statistical Challenges in E-Commerce Research)**, *Paphos, Cyprus* (scheduled)
+
 -   **ISMS Marketing Science Conference**, *Washington D.C.* (scheduled)
 
 -   **EMAC (European Marketing Academy Annual Conference)**, *Madrid, Spain* (scheduled)
@@ -37,7 +39,7 @@ format:
 
 -   **WISE (Workshop on Information Systems and Economics)**, *Bangkok, Thailand*
 
--   **SCECR (Statistical Challenges in E-Commerce Research)**, *Lisbon, Portugal*
+-   **SCECR (Symposium on Statistical Challenges in E-Commerce Research)**, *Lisbon, Portugal*
 
 -   **DPE (Digital Platform Ecosystems) Forum**, *Passau, Germany*
 
@@ -101,7 +103,7 @@ format:
 
 ------------------------------------------------------------------------
 
--   **Type:** Bachelor's Level (x8) & Master's Level (x1), Co-supervise with Prof. Bernd Skiera
+-   **Type:** Bachelor's Level (x7) & Master's Level (x2), Co-supervise with Prof. Bernd Skiera
 
--   **Period:** Winter 2024/25, Summer 2024
+-   **Period:** Summer 2025, Winter 2024/25, Summer 2024
 :::
