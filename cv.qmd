@@ -63,7 +63,7 @@ format:
 :::
 
 ::: {.callout-note collapse="true" style="gray" appearance="minimal" icon="false"}
-## Data Mining in Marketing: Data Driven Customer Analytics with Machine Learning
+## Data Mining in Marketing: Data-Driven Customer Analytics with Machine Learning
 
 ------------------------------------------------------------------------
 
