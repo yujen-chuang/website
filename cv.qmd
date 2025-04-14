@@ -50,6 +50,18 @@ format:
 
 **Goethe University Frankfurt**
 
+::: {.callout-note collapse="true" style="gray" appearance="minimal" icon="false"}
+## Applications of Generative AI in Marketing
+
+------------------------------------------------------------------------
+
+-   **Type:** Bachelor's Level, Seminar, Co-teach with Prof. Bernd Skiera
+
+-   **Period:** Summer 2025
+
+-   This seminar equips students with a comprehensive understanding of generative AI and its applications in marketing. Students will engage in reading academic papers, discussing AI models, and applying generative AI in practical business scenarios.
+:::
+
 ::: {.callout-warning collapse="true" style="gray" appearance="minimal" icon="false"}
 # Econometrics in Management / Marketing
 
@@ -72,18 +84,6 @@ format:
 -   **Period:** Summer 2025
 
 -   This seminar focuses on "predictive modeling" as a challenge in marketing. Using a real-life dataset, we will forecast and predict customers' purchase behavior and derive models that help optimize the efficiency of marketing campaigns. We will present both the process of data mining and the most relevant machine learning algorithms to predict customer (buying) behavior.
-:::
-
-::: {.callout-note collapse="true" style="gray" appearance="minimal" icon="false"}
-## Applications of Generative AI in Marketing
-
-------------------------------------------------------------------------
-
--   **Type:** Bachelor's Level, Seminar, Co-teach with Prof. Bernd Skiera
-
--   **Period:** Summer 2025
-
--   This seminar equips students with a comprehensive understanding of generative AI and its applications in marketing. Students will engage in reading academic papers, discussing AI models, and applying generative AI in practical business scenarios.
 :::
 
 ::: {.callout-note collapse="true" style="gray" appearance="minimal" icon="false"}
