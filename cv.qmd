@@ -25,6 +25,8 @@ format:
 
 ------------------------------------------------------------------------
 
+-   **CMIC (China Marketing International Conference)**, *Xuzhou, China* (scheduled)
+
 -   **SCECR (Symposium on Statistical Challenges in E-Commerce Research)**, *Paphos, Cyprus* (scheduled)
 
 -   **ISMS Marketing Science Conference**, *Washington D.C.* (scheduled)
@@ -103,7 +105,7 @@ format:
 
 ------------------------------------------------------------------------
 
--   **Type:** Bachelor's Level (x7) & Master's Level (x2), Co-supervise with Prof. Bernd Skiera
+-   **Type:** Bachelor's Level (x7) & Master's Level (x3), Co-supervise with Prof. Bernd Skiera
 
 -   **Period:** Summer 2025, Winter 2024/25, Summer 2024
 :::
