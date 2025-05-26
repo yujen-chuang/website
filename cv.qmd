@@ -25,13 +25,11 @@ format:
 
 ------------------------------------------------------------------------
 
--   **CMIC (China Marketing International Conference)**, *Xuzhou, China* (scheduled)
-
 -   **SCECR (Symposium on Statistical Challenges in E-Commerce Research)**, *Paphos, Cyprus* (scheduled)
 
 -   **ISMS Marketing Science Conference**, *Washington D.C.* (scheduled)
 
--   **EMAC (European Marketing Academy Annual Conference)**, *Madrid, Spain* (scheduled)
+-   **EMAC (European Marketing Academy Annual Conference)**, *Madrid, Spain*
 :::
 
 ::: {.callout-important appearance="simple" icon="false"}
