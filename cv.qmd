@@ -62,7 +62,7 @@ format:
 -   This seminar equips students with a comprehensive understanding of generative AI and its applications in marketing. Students will engage in reading academic papers, discussing AI models, and applying generative AI in practical business scenarios.
 :::
 
-::: {.callout-warning collapse="true" style="gray" appearance="minimal" icon="false"}
+::: {.callout-note collapse="true" style="gray" appearance="minimal" icon="false"}
 # Econometrics in Management / Marketing
 
 ------------------------------------------------------------------------
@@ -103,7 +103,7 @@ format:
 
 ------------------------------------------------------------------------
 
--   **Type:** Bachelor's Level (x7) & Master's Level (x3), Co-supervise with Prof. Bernd Skiera
+-   **Type:** Bachelor's Level (x8) & Master's Level (x3), Co-supervise with Prof. Bernd Skiera
 
 -   **Period:** Summer 2025, Winter 2024/25, Summer 2024
 :::
