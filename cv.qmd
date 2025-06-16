@@ -27,7 +27,7 @@ format:
 
 -   **SCECR (Symposium on Statistical Challenges in E-Commerce Research)**, *Paphos, Cyprus* (scheduled)
 
--   **ISMS Marketing Science Conference**, *Washington D.C.* (scheduled)
+-   **ISMS Marketing Science Conference**, *Washington D.C.*
 
 -   **EMAC (European Marketing Academy Annual Conference)**, *Madrid, Spain*
 :::

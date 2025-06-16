@@ -11,9 +11,6 @@ about:
     - text: LinkedIn
       icon: linkedin
       href: https://www.linkedin.com/in/yu-jen-andy-chuang-b8b5a6178/
-    - text: Twitter
-      icon: twitter-x
-      href: https://x.com/YuJen_Chuang  
     - text: Email
       icon: envelope-fill
       href: mailto:chuang@wiwi.uni-frankfurt.de
