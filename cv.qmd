@@ -25,6 +25,8 @@ format:
 
 ------------------------------------------------------------------------
 
+-   **SALTY Quantitative Marketing Conference**, *Vienna, Austria*
+
 -   **CMIC (China Marketing International Conference)**, *Xuzhou, China*
 
 -   **SCECR (Symposium on Statistical Challenges in E-Commerce Research)**, *Paphos, Cyprus*
