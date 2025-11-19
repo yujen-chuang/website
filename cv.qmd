@@ -21,6 +21,14 @@ format:
 ## Conference Presentations
 
 ::: {.callout-important appearance="simple" icon="false"}
+**2026**
+
+------------------------------------------------------------------------
+
+-   **AMA Winter Academic Conference**, *Madrid, Spain* (scheduled)
+:::
+
+::: {.callout-important appearance="simple" icon="false"}
 **2025**
 
 ------------------------------------------------------------------------
@@ -67,7 +75,7 @@ format:
 :::
 
 ::: {.callout-note collapse="true" style="gray" appearance="minimal" icon="false"}
-# Econometrics in Management / Marketing
+# Econometrics in Management / Marketing (Marketing Analytics)
 
 ------------------------------------------------------------------------
 

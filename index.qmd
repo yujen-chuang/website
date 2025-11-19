@@ -21,6 +21,6 @@ about:
 
 I am a Ph.D. candidate in Economics at [Goethe University Frankfurt (GSEFM)](https://www.gsefm.eu/about-us.html). Currently, I am supervided by [Prof. Bernd Skiera](https://www.marketing.uni-frankfurt.de/en/professoren/skiera/prof-dr-bernd-skiera.html) at the Chair of Electronic Commerce in the Department of Marketing at Goethe University Frankfurt.
 
-My research interests extensively focus on digital economics. I am particularly interested in innovative decision-making related to new technologies (e.g., blockchain, AI) and online advertising.
+My research interests extensively focus on digital marketing. I am particularly interested in the creator economy with new technologies (e.g., blockchain, AI) and online advertising.
 
 Email: [chuang\@wiwi.uni-frankfurt.de](mailto:%20chuang@wiwi.uni-frankfurt.de)
