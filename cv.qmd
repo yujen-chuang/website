@@ -107,7 +107,7 @@ format:
 
 ------------------------------------------------------------------------
 
--   **Type:** Bachelor's Level (x10) & Master's Level (x3), Co-supervise with Prof. Bernd Skiera
+-   **Type:** Bachelor's Level (x10) & Master's Level (x7), Co-supervise with Prof. Bernd Skiera
 
--   **Period:** Summer 2025, Winter 2024/25, Summer 2024
+-   **Period:** Winter 2025/26, Summer 2025, Winter 2024/25, Summer 2024
 :::
