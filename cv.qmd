@@ -26,6 +26,7 @@ format:
 ------------------------------------------------------------------------
 
 -   **MDC (Marketing Dynamics Conference)**, *Paris, France* (scheduled)
+
 -   **AMA Winter Academic Conference**, *Madrid, Spain* (scheduled)
 :::
 
