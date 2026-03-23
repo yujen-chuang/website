@@ -25,9 +25,13 @@ format:
 
 ------------------------------------------------------------------------
 
+-   **ISMS Marketing Science Conference**, *Lisbon, Portugal* (scheduled)
+
+-   **EMAC (European Marketing Academy Annual Conference)**, *Bath, UK* (scheduled)
+
 -   **MDC (Marketing Dynamics Conference)**, *Paris, France* (scheduled)
 
--   **AMA Winter Academic Conference**, *Madrid, Spain* (scheduled)
+-   **AMA Winter Academic Conference**, *Madrid, Spain*
 :::
 
 ::: {.callout-important appearance="simple" icon="false"}
