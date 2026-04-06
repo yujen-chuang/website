@@ -87,7 +87,7 @@ format:
 
 -   **Type:** Bachelor's Level, Course, Co-teach with Prof. Bernd Skiera
 
--   **Period:** Summer 2025
+-   **Period:** Summer 2025, Summer 2026
 
 -   This course is designed to deepen students' understanding of marketing analytics—specifically, the use of econometric methods and concepts to improve marketing decision-making. We aim to enable students to apply econometric methods to solve economic and marketing-related problems.
 :::
@@ -121,7 +121,7 @@ format:
 
 ------------------------------------------------------------------------
 
--   **Type:** Bachelor's Level (x10) & Master's Level (x7), Co-supervise with Prof. Bernd Skiera
+-   **Type:** Bachelor's Level (x12) & Master's Level (x7), Co-supervise with Prof. Bernd Skiera
 
--   **Period:** Winter 2025/26, Summer 2025, Winter 2024/25, Summer 2024
+-   **Period:** 2024-Present
 :::
