@@ -13,7 +13,7 @@ about:
       href: https://www.linkedin.com/in/yu-jen-andy-chuang-b8b5a6178/
     - text: Email
       icon: envelope-fill
-      href: mailto:chuang@wiwi.uni-frankfurt.de
+      href: mailto:chuang [at] wiwi.uni-frankfurt [dot] de
     - text: University Website
       icon: mortarboard-fill
       href: https://www.marketing.uni-frankfurt.de/en/professoren/skiera/team/doctoral-students/yu-jen-andy-chuang.html      
